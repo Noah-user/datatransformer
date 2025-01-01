@@ -1,0 +1,21 @@
+id,name,age,city,income,employed,department
+1,Person_1,48,Los Angeles,94980,Yes,Sales
+2,Person_2,42,Chicago,39872,Yes,Engineering
+3,Person_3,57,Los Angeles,107994,Yes,Marketing
+4,Person_4,23,Phoenix,95603,Yes,Sales
+5,Person_5,21,New York,45762,No,Engineering
+6,Person_6,31,Phoenix,90836,Yes,Engineering
+7,Person_7,55,Houston,30541,No,Engineering
+8,Person_8,60,New York,34222,No,HR
+9,Person_9,28,Chicago,77702,No,Marketing
+10,Person_10,53,Phoenix,117903,No,HR
+11,Person_11,56,Phoenix,92051,Yes,Marketing
+12,Person_12,57,Los Angeles,32436,No,IT
+13,Person_13,30,New York,51169,No,Sales
+14,Person_14,49,Chicago,83879,No,Engineering
+15,Person_15,70,Phoenix,54581,No,IT
+16,Person_16,46,Phoenix,35955,Yes,IT
+17,Person_17,35,Houston,94170,Yes,Sales
+18,Person_18,54,Phoenix,114785,Yes,Marketing
+19,Person_19,35,Chicago,61049,No,Sales
+20,Person_20,70,Los Angeles,55928,No,HR
